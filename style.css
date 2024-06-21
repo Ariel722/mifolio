@@ -2,9 +2,9 @@
 
 body{
     
-    background-color: #54626F;
+    background-color: #ACE685;
     font-family: 'Montserrat', sans-serif;
-    color: #fffbff;
+    color: #fff;
     margin: 0;
     scroll-behavior: smooth;
     padding-top: 70px;
@@ -40,12 +40,12 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #1389e2;
+    background-color: #88e023;
     box-shadow: 0 0 5px rgba(143, 77, 77, 0.1);
 }
 nav a{
     text-decoration: none;
-    color: #333;
+    color: #292727;
     padding: 10px;
     display: inline-block;
 }
@@ -63,10 +63,10 @@ section{
     border: 2px #69a2ce solid;
     margin: 10px;
     border-radius: 10px;
-    background-color: #1e272e ;
+    background-color: #398229;
     padding: 20px;
     margin-bottom: 20px;
-    box-shadow: 0 4px 8px rgba(4, 44, 129, 0.2);
+    box-shadow: 0 4px 8px rgba(255, 230, 26, 0.2);
 }
 
 #acerca-de-mi p {
@@ -122,7 +122,7 @@ section{
 
 .menu-item {
     text-decoration: none;
-    color: #2952a0;
+    color: #6590e0;
     padding: 10px;
     display: inline-block;
 }
@@ -155,4 +155,8 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px;
+}
+.red{
+    width: 30px;
+    vertical-align: middle;
 }
